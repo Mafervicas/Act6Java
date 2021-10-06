@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+.class/*
+.idea/*
+/.idea/workspace.xml
